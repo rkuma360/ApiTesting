@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10590" started-at="2020-09-04T13:40:34 IST" finished-at="2020-09-04T13:40:44 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10590" started-at="2020-09-04T13:40:34 IST" finished-at="2020-09-04T13:40:44 IST">
+      <class name="com.apiTesting1and2.ApiTesting_Counties">
+        <test-method status="PASS" signature="country_capital()[pri:0, instance:com.apiTesting1and2.ApiTesting_Counties@7494e528]" name="country_capital" duration-ms="4362" started-at="2020-09-04T13:40:34 IST" finished-at="2020-09-04T13:40:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country_capital -->
+        <test-method status="PASS" signature="currency()[pri:0, instance:com.apiTesting1and2.ApiTesting_Counties@7494e528]" name="currency" duration-ms="1420" started-at="2020-09-04T13:40:38 IST" finished-at="2020-09-04T13:40:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currency -->
+        <test-method status="PASS" signature="fullName()[pri:0, instance:com.apiTesting1and2.ApiTesting_Counties@7494e528]" name="fullName" duration-ms="1553" started-at="2020-09-04T13:40:40 IST" finished-at="2020-09-04T13:40:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fullName -->
+        <test-method status="PASS" signature="language()[pri:0, instance:com.apiTesting1and2.ApiTesting_Counties@7494e528]" name="language" duration-ms="1684" started-at="2020-09-04T13:40:41 IST" finished-at="2020-09-04T13:40:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- language -->
+        <test-method status="PASS" signature="list_Code()[pri:0, instance:com.apiTesting1and2.ApiTesting_Counties@7494e528]" name="list_Code" duration-ms="1501" started-at="2020-09-04T13:40:43 IST" finished-at="2020-09-04T13:40:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- list_Code -->
+      </class> <!-- com.apiTesting1and2.ApiTesting_Counties -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
